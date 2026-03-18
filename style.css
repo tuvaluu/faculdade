@@ -1,0 +1,33 @@
+            body{
+                background-color: #75AADB;
+                font-family: Verdana;
+            
+            }
+
+            h1{
+                color:black;
+                text-align: center;
+                background-color: white;
+                font-size: 40px;
+            
+            }
+
+            p{
+                color: white;
+                font-family: Verdana;
+                font-size: 20px;
+                
+            
+            }
+
+            img{
+                width: 70%;
+                max-width: 600px;
+                
+            }
+            header{
+                background-color: #75AADB;
+                height: 100px;
+                text-align: center;
+                padding: 10px;
+            }
